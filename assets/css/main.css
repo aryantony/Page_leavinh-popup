@@ -657,11 +657,18 @@ section {
   margin-right: 20px;
   line-height: 0;
 }
-
+.bord{
+  border: 1px solid #1c097f;
+  padding: 8px;
+  width: 100%;
+  border-radius: 5px;
+  margin-bottom: 22px;
+}
 .about .content ul h5 {
   font-size: 18px;
   font-weight: 700;
   color: #19335c;
+  margin-top: 12px;
 }
 
 .about .content ul p {
@@ -1914,7 +1921,7 @@ section {
   color: #fff;
 }
 .registration-button{
-  position: fixed;
+  position: absolute;
   z-index: 10000000000;
   top: 0;
   right: 0;
