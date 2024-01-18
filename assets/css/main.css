@@ -658,7 +658,7 @@ section {
   line-height: 0;
 }
 .bord{
-  border: 1px solid #1c097f;
+  /* border: 1px solid #1c097f; */
   padding: 8px;
   width: 100%;
   border-radius: 5px;
